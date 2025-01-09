@@ -4,7 +4,8 @@ This is an event-driven AWS architecture that sends **SNS subscribers** real-tim
 
 ## Architecture Overview
 
-![Architecture Diagram](1736355453454.jpg)
+![1736355453454](https://github.com/user-attachments/assets/b0ff4f96-e4c1-4147-8ec1-e489d37b184b)
+
 
 ### Components
 1. **Amazon EventBridge**: Triggers the Lambda function on a scheduled interval.
