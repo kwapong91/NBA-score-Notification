@@ -63,4 +63,4 @@ Outputs:
 
   LambdaExecutionRoleArn:
     Description: "ARN of the IAM Role for Lambda Execution"
-    Value: !GetAtt LambdaExecutionRole.Arn
+    Value: !GetAtt LambdaExecutionRole.Arx
